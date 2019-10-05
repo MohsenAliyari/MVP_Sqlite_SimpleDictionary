@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="androidx.print:print-1.0.0-rc01">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-4.10.2/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/73dead4d26ee2f087e1ca3713dc892e4/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-4.10.2/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/73dead4d26ee2f087e1ca3713dc892e4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-4.10.2/caches/modules-2/files-2.1/androidx.print/print/1.0.0-rc01/27fc373e01001cdf54da0aa7a41c4bdfa6534e20/print-1.0.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
